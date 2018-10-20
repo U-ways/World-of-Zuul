@@ -30,8 +30,8 @@ Command list:
 
 | Command           | Description                                     |
 |:------------------|:------------------------------------------------|
-| `go _direction_`  | Go to the next room using the direction given   |
-| `take _item_`     | Take an item from the room                      |
+| `go [direction]`  | Go to the next room using the direction given   |
+| `take [item]`     | Take an item from the room                      |
 | `look`            | Post data about room you're in                  |
 | `eat`             | Eat the items you have                          |
 | `help`            | Print the help manual                           |
