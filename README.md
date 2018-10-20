@@ -4,7 +4,7 @@ Overview
 -------------------------------------------------------------------------------
 
 #### Project Info:
-This project is a simple framework for an adventure game named the "World of London".
+A text-based adventure game based on the World of Zuul where you travel around London's famous landmarks.
 
 In this version, You can:
   - Walk around some scenery until you reach the goal location.
