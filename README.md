@@ -3,7 +3,7 @@ World of Zuul (London variation)
 Overview
 -------------------------------------------------------------------------------
 
-#### Project Info:
+#### Assignment description:
 A text-based adventure game based on the World of Zuul where you travel around London's famous landmarks.
 
 In this version, You can:
