@@ -10,7 +10,7 @@
 
   <name>World of London</name>
   <description>Framework for an adventure game named the "World of London".</description>
-  <url>https://github.com/U-ways/World-of-London</url>
+  <url>https://github.com/U-ways/World-of-Zuul</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
